@@ -35,7 +35,14 @@ CSSR-tool --+-- src     CSSR-tool C programs
 
 ## **Installation**
 
-The software has been tested in CLION 2023.3.2.
+The software has been tested in CLION 2023.3.2. Please create a project to build the software.
+
+* Download and unzip the software into your directory <install_dir>.
+* Open the folder as a CLION project
+* Modify the CMakeList.txt to link the software to your directory
+```
+**set(LINK_DIR <install_dir>)**
+```
 
 ## **Citation**
 Under review
