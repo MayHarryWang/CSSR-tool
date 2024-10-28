@@ -5,3 +5,7 @@ CSSR-tool converts all source CSSR messages into one text file. The file accumul
 
 ## **Citation**
 Under review
+
+## **References**
+[1] https://github.com/tomojitakasu/PocketSDR/tree/master 
+[2] https://github.com/tomojitakasu/RTKLIB
