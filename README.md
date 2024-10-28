@@ -41,8 +41,9 @@ The software has been tested in CLION 2023.3.2. Please create a project to build
 * Open the folder as a CLION project
 * Modify the CMakeList.txt to link the software to your directory
 ```
-**set(LINK_DIR <install_dir>)**
+set(LINK_DIR <install_dir>)
 ```
+* Reload the CMakeList.txt
 
 ## **Citation**
 Under review
