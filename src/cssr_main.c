@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "src/rtklib.h"
-#include "src/sbf_mt.h"
+#include "rtklib.h"
+#include "sbf_mt.h"
 
 //------------------------------------------------------------------------------
 //

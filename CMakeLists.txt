@@ -8,7 +8,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}")
 link_libraries(winmm)
 link_libraries(ws2_32)
 
-add_executable(CSSR-tool cssr_main.c
+add_executable(CSSR-tool src/cssr_main.c
         src/decode_sbf.c
         src/log_func.c
         src/rtkcmn.c
