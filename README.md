@@ -8,7 +8,7 @@ CSSR-tool converts all source CSSR messages into one text file. The file accumul
 ## **Contents**
 ```
 CSSR-tool --+-- src     CSSR-tool C programs
-            |   +--     rtklib.h
+            |   +--     rtklib.h (Inherited from RTKlib) 
             |   +--     cssr.h
             |   +--     pksdr_mt.h
             |   +--     sbf_mt.h
