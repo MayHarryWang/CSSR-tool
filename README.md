@@ -36,12 +36,13 @@ CSSR-tool --+-- src     CSSR-tool C programs
 The software has been tested in CLION 2023.3.2. Please create a project to build the software.
 
 * Download and unzip the software into your directory <install_dir>.
-* Open the folder as a CLION project
-* Modify the CMakeList.txt to link the software to your directory
+* Open the folder as a CLION project.
+* Modify the CMakeList.txt to link the software to your directory.
 ```
 set(LINK_DIR <install_dir>)
 ```
 * Reload the CMakeList.txt
+* Run the software.
 
 There are several arguments that need to specify in **cssr_main.c**, please refer to the description in the file. If the software successfully run, the text "Preprocessing Done!" will be shown at the end of the process.
 **Users must input SBF file to run the software; however, the PocketSDR file is optional. Besides, this package also supports message contents display.**
