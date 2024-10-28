@@ -3,6 +3,8 @@
 
 CSSR-tool converts all source CSSR messages into one text file. The file accumulates QZSS MADOCA, Galileo HAS and BDS-3 B2b messages with its corresponding GPS time, PRN number and HEX code. It can be utilized as an input of coorperative CSSR-PPP. Users can arbitrarily select which service should be included in the output text file.
 
+<img src="image/SSR_Tool.jpg" width=100%>
+
 --------------------------------------------------------------------------------
 
 ## **Contents**
