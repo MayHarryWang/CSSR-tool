@@ -47,7 +47,7 @@ set(LINK_DIR <install_dir>)
 There are several arguments that need to specify in **cssr_main.c**, please refer to the description in the file. If the software successfully run, the text "Preprocessing Done!" will be shown at the end of the process.
 **Users must input SBF file to run the software; however, the PocketSDR file is optional. Besides, this package also supports message contents display.**
 
-## ** Sample Data**
+## **Sample Data**
 The sample data was collected using PocketSDR (L6E) and Septentrio Mosaic-X5 (multi-GNSS, multi-frequency). 
 
 * PocketSDR data: pocket_trk_L1L6_0601.log
