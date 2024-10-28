@@ -33,6 +33,10 @@ CSSR-tool --+-- src     CSSR-tool C programs
 ```
 --------------------------------------------------------------------------------
 
+## **Installation**
+
+The software has been tested in CLION 2023.3.2.
+
 ## **Citation**
 Under review
 
