@@ -8,4 +8,9 @@ Under review
 
 ## **References**
 [1] https://github.com/tomojitakasu/PocketSDR/tree/master 
+
 [2] https://github.com/tomojitakasu/RTKLIB
+
+[3] https://github.com/hirokawa/cssrlib
+
+[4] https://web.eecs.utk.edu/~jplank/plank/gflib/
