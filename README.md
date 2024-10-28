@@ -45,6 +45,10 @@ set(LINK_DIR <install_dir>)
 ```
 * Reload the CMakeList.txt
 
+There are several arguments that need to specify in cssr_main.c, please refer to the description in the file.
+
+**Note: Users must input SBF file to run the software; however, the PocketSDR file is optional. Besides, this package also supports message contents display.**
+
 ## **Citation**
 Under review
 
